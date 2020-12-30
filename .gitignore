@@ -1,6 +1,10 @@
 #secrets
 .env
 
+#logs etc
+tweets.txt
+tweets.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
